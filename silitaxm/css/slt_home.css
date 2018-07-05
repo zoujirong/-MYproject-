@@ -1,0 +1,398 @@
+
+/*�ƶ��˺�pc�˵�����*/
+.slt-font-nav{
+    font-size: 0.5rem;
+    font-family:AdobeHeitiStd-Regular;
+}
+.slt-nav{
+/*    margin-top: 0.43rem;*/
+
+}
+
+.slt-nav-logo{
+
+    width:3.61rem;
+    height: 0.48rem;
+
+
+}
+
+.slt-nav-img-pc{
+    float:left;
+    line-height: 1.3rem;
+    margin-left: 3rem;
+    overflow: hidden;
+
+}
+
+
+.navbar-header > span{
+    width: 100%;
+    text-align: center;
+}
+.navbar-header{
+    width: 100%;
+    text-align: center;
+    overflow: hidden;
+    padding-left: 0;
+    padding-right: 0;
+    margin-right: 0;
+    margin-left: 0;
+}
+.navbar-brand{
+    float: none;
+    font-size: 28px;
+    font-weight:400;
+    color: #333333;
+
+}
+
+.slt-nav-ul-pc-li {
+    height: 1.3rem;
+    display: block;
+    overflow: hidden;
+    margin: 0 auto;
+    text-align: center;
+
+}
+.slt-nav-pc{
+    background-color: white;
+    height: 1.3rem;
+    display: block;
+
+
+}
+.nav-mobile{
+    background-color: white;
+
+}
+
+
+
+.slt-nav-ul-pc{
+    float: right;
+    font-size: 0.3rem;
+    overflow: hidden;
+    text-align: center;
+    height: 1.3rem;
+
+
+}
+.slt-nav-pc-div{
+    margin-right: 3.6rem;
+}
+
+.slt-nav-ul-pc-li-a{
+    text-align: center;
+    height: 0.5rem;
+    margin-top: 0.4rem;
+    font-size: 0.2rem;
+    font-family: AdobeHeitiStd-Regular;
+    font-weight: 700;
+    color:#555555;
+
+}
+
+.slt-nav-ul-pc > li > a{
+    padding: 0 0;
+    line-height: 0.4rem;
+}
+
+.slt-nav-ul-pc>.active > a,
+.slt-nav-ul-pc>.active a:hover,
+.slt-nav-ul-pc>.active a:focus {
+    background-color: transparent;
+    border-bottom: 4px solid #6ca5ff;
+
+
+}
+
+
+.slt-nav-ul-pc > li > a:hover,
+.slt-nav-ul-pc > li a:focus {
+    color: #777;
+    border-bottom: 4px solid #6ca5ff;
+}
+
+
+
+.slt-nav-ul-mobile>.active>a:hover,
+.slt-nav-ul-mobile>.active>a:focus,
+.slt-nav-ul-mobile>.active:hover,
+.slt-nav-ul-mobile>.active:focus{
+    border-bottom: none;
+}
+.slt-nav-ul-mobile>li>a{
+    font-size: 0.28rem;
+    font-weight:700;
+    font-family: "Microsoft Himalaya";
+}
+.slt-nav-ul-pc-li{
+    margin-left: 1rem;
+}
+/* �ֲ�ͼ*/
+.pcImg{
+    width: 19.2rem;
+    height: 4.72rem;
+    display: block;
+    /*���ñ���ͼƬ��*/
+    /*����ͼƬ������ʾ*/
+    background-position: center center;
+    /*���ñ���ͼƬ�Ĵ�С*/
+    background-size: cover;
+    border-bottom: none;
+}
+.pcImg:hover,.pcImg:focus
+{
+    display: block;
+    border-bottom: none;
+
+}
+
+/* ��ҳ�ƶ���*/
+.slt-mobile-png,.slt-pc-png{
+    text-align:center;
+}
+
+.slt-mobile-img{
+    margin-top: 0.52rem;
+    width: 1.92rem;
+    height: 0.7rem;
+}
+
+
+.slt-mobile-div-line{
+    width: 7.5rem;
+    height: 0.02rem;
+    background-color: #dbdbdb;
+    margin-top: 0.3rem;
+}
+
+.slt-mobile-img-second{
+    width: 6.9rem;
+    height: 8.27rem;
+    margin-top: 0.4rem;
+}
+.slt-mobile-div-line2{
+    width: 7.5rem;
+    height: 0.02rem;
+    background-color: #dbdbdb;
+    margin-top: 0.8rem;
+}
+.slt-mobile-img-bottom{
+
+    width:6.8rem;
+    height: 1.2rem;
+    margin-top: 0.46rem;
+
+
+}
+
+.slt-mobile-png{
+    padding-bottom: 0.46rem;
+}
+/* ��ҳpc��*/
+.slt-pc-img{
+    width: 1.05rem;
+    height: 0.71rem;
+    margin-top: 1.08rem;
+}
+
+.slt-pc-png>.slt-pc-line1{
+    width: 100%;
+    height: 0.03rem;
+    background-color: #b9b9b9;
+    margin-top: 0.57rem;
+
+}
+.slt-pc-line2{
+    width: 100%;
+    height: 0.03rem;
+    background-color: #b9b9b9;
+
+
+}
+.home-pc-lbt-div{
+    position: relative;
+}
+.home-pc-xz{
+    position: absolute;
+    z-index: 20000;
+    margin-top: 3.49rem;
+    margin-left: 3.6rem;
+}
+.home-pc-xz>a>img{
+    width:2.56rem;
+    height: 0.82rem;
+    margin-left: 0.1rem;
+}
+.slt-pc-div-imgs-one{
+    width: 1.54rem;
+    height: 1.87rem;
+    margin-left: 3.6rem;
+    float: left;
+    overflow: hidden;
+}
+.slt-pc-div-imgs-son{
+    width:9.31rem;
+    float: right;
+    overflow: hidden;
+    text-align: center;
+
+}
+
+.slt-pc-div-imgs-son-img{
+    display: block;
+    overflow: hidden;
+
+}
+.slt-img-left-rem{
+    width: 0.86rem;
+    height: 0.86rem;
+
+}
+.slt-pc-div-imgs-son-div{
+    margin-right: 8.4rem;
+}
+.slt-img-left-up{
+    width: 5.99rem;
+    height: 3.15rem;
+    margin-left: 0.86rem;
+}
+.slt-img-left-down{
+    width: 5.98rem;
+    height: 3.05rem;
+    margin-left: 0.86rem;
+}
+.slt-pc-div-imgs-two{
+    width: 1.5rem;
+    height: 0.56rem;
+    margin-left:-1.5rem;
+    overflow: hidden;
+    margin-top: 1.32rem;
+}
+.slt-pc-div-imgs{
+    width: 100%;
+    height: 7.6rem;
+    margin-top: 0.45rem;
+
+}
+.slt-pc-txt{
+    width: 100%;
+
+}
+.slt-pc-txt>.slt-pc-txt-st{
+    display: inline-block;
+    font-family: AdobeHeitiStd-Regular;
+    font-size: 0.18rem;
+    font-weight:500;
+    color: #666666;
+}
+.slt-pc-txt-4>.slt-span-us-en,.slt-pc-txt-5>.slt-span-code-en{
+    font-family:AdobeHeitiStd-Regular;
+    font-size: 0.2rem;
+
+}
+
+.slt-pc-txt-1{
+    margin-left: 3.6rem;
+}
+
+.slt-pc-txt-3{
+    margin-left: 0.38rem;
+
+}
+.slt-pc-txt-4{
+    margin-left: 6rem;
+}
+.slt-pc-txt-5{
+    margin-left: 1.46rem;
+}
+.slt-pc-txt{
+    text-align: left;
+    height: 0.8rem;
+    margin-top:1rem;
+}
+
+.slt-pc-txt-2{
+    margin-left: 0.28rem;
+    font-size: 0.36rem;
+
+}
+.slt-pc-bottom-inline{
+    display: inline-block;
+}
+.slt-pc-bottom-logo{
+    width: 4.32rem;
+    height: 0.6rem;
+    margin-left: 2.6rem;
+}
+
+.slt-pc-bottom{
+    margin-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    text-align: left;
+    margin-left:3.2rem;
+}
+
+.footer_c_logo{
+    margin-left: 0.3rem;
+    font-size: 0.14rem;
+    font-family: AdobeHeitiStd-Regular;
+}
+.footer_r{
+    margin-left: 0.8rem;
+}
+.slt_phone{
+    margin-left:4.4rem;
+    font-family: ArialMT;
+    font-size: 0.3rem;
+    color: #666666;
+}
+.slt_code{
+    width: 1.2rem;
+    height: 1.2rem;
+}
+
+.slt_code_div{
+    width: 1.2rem;
+    height: 1.2rem;
+    position: fixed;
+    left:17.7rem;
+    top:5rem;
+}
+.navbar-nav{
+    margin:7.5px -1px;
+}
+
+
+
+.navbar-custom .navbar-toggle {
+    position: relative;
+    background-color: #6299EF;
+    border-color: #6299EF;
+}
+
+
+
+.navbar-toggle {
+    background-color: #6299EF;
+    margin-right: 0px;
+
+}
+
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: #6299EF;
+}
+.icon-bar {
+    background-color: #fff;
+    display: block;
+    width: 22px;
+    height: 2px;
+    border-radius: 1px;
+}
+
+.slt-sfq-btn{
+    background-color: rgba(255, 255, 255, .9);
+}

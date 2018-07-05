@@ -1,0 +1,96 @@
+.slt-pc-con-imgs{
+    width:100%;
+    text-align:left;
+    padding-left:3.8rem;
+    margin-top:0.3rem;
+}
+.slt-pc-con-imgs-one,.slt-pc-con-imgs-two{
+    display: inline-block;
+}
+
+.slt-pc-con-imgs-one{
+    width:1.54rem;
+    height:1.87rem;
+}
+
+.slt-pc-con-imgs{
+    text-align: left;
+}
+
+.slt-pc-con-imgs-two{
+    vertical-align: bottom;
+    width:1.94rem;
+    height:0.56rem;
+    margin-left: 0.72rem;
+}
+
+.slt-con-three-son{
+    display: inline-block;
+    padding: 0.1rem;
+    height: 3.3rem;
+    width: 3.9rem;
+    text-align: center;
+    border: 1px solid #dddddd;
+    margin: 1.45rem 0.2rem;
+
+    overflow: hidden;
+}
+.slt-con-three-son{
+    padding-top: 0.3rem;
+}
+.slt-con-three-down>span{
+    display: block;
+    font-family: AdobeHeitiStd-Regular;
+}
+.slt-con-three-up>img{
+    width: 1.4rem;
+    height: 1.4rem;
+}
+.slt-con-three{
+    margin-top: 1.46rem;
+}
+.slt-con-three-down-a{
+    font-family:"Microsoft Himalaya";
+    font-size: 0.24rem;
+    color:#777777;
+    /*font-weight: 700;*/
+
+}
+
+.slt-con-three-down-b{
+    font-size: 0.32rem;
+    font-family: AdobeHeitiStd-Regular;
+    font-weight:normal;
+    color: #666666;
+
+}
+
+.slt-con-three-up{
+    margin-left: 0.2rem;
+    margin-right: 0.2rem;
+    border-bottom: 1px solid #cccccc;
+    padding-bottom: 0.2rem;
+}
+
+.slt-con-three-down{
+    margin-top: 0.22rem;
+}
+.slt-pc-txt{
+    margin-top: 3.11rem;
+}
+
+/* �ƶ�����ʽͼ*/
+.con-mob-div-img{
+    display: block;
+    width: 5.59rem;
+    height: 3.22rem;
+    border: 1px solid #cccccc;
+
+}
+.con-mob-div{
+    margin: 0.6rem auto;
+    overflow: hidden;
+    height: 4.0rem;
+    width: 100%;
+    text-align: center;
+}
